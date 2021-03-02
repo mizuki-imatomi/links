@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title{
+  border: solid 4px orange;
+  border-radius: 500px ;
+  /* text-decoration:  */
+  width: 38%;
+  font-size: 40px;
+  font-weight: 600;
+  color: blue;
+  background-color: rgb(255, 254, 227);
+  /* background-color: rgb(208, 255, 252); */
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  /* height: 200px; */
+  padding: 30px 0;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+img{
+  cursor: pointer;
+}
+
+li{
+  padding:10px 0;
+}
+
+.link1{
+/* background-image: cover;   */
+/* background-color: aqua; */
+text-align: center;
+
+}
+
