@@ -41,8 +41,21 @@ text-align: center;
 
 @media screen and (max-width: 1017px) {
   .title {
-/*     background-color: aqua; */
+    /* background-color: aqua; */
+    font-size: 25px;
+}
+}
+@media screen and (max-width: 714px) {
+  .title {
+    /* background-color: aqua; */
     font-size: 20px;
+}
+}
+
+@media screen and (max-width: 530px) {
+  .title {
+    /* background-color: aqua; */
+    font-size: 18px;
 }
 }
 
