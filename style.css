@@ -41,8 +41,8 @@ text-align: center;
 
 @media screen and (max-width: 1017px) {
   .title {
-    background-color: aqua;
-    font-size: 10px;
+/*     background-color: aqua; */
+    font-size: 20px;
 }
 }
 
